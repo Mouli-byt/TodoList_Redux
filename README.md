@@ -1,5 +1,5 @@
-He we created a Todo list App using Redux Library.
- +Here we used mapping function to list all list items
+He we created a Todo list App using Redux Library.<br>
+ +Here we used mapping function to list all list items <br>
 
  we have two components here- <br>
  +Todo component we have options to delte a todo or mark as Read and Add form component inside it.<br>
