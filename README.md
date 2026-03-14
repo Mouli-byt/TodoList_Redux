@@ -1,7 +1,4 @@
-He we created a Todo list App using Redux Library.<br>
- +Here we used mapping function to list all list items <br>
-
- we have two components here- <br>
- +Todo component we have options to delte a todo or mark as Read and Add form component inside it.<br>
- +Add form component where we can add new todo <br>
- +all functions such as adding todo, delting and mark as read works by importing reducers from todoSlice.js.
+Tech Stack: React.js, Redux.js, JavaScript, HTML, CSS <br>
+• Developed a task management application using Redux for centralized state management. <br>
+• Implemented CRUD operations (Create, Read, Delete) using Redux reducers connected to a central store. <br>
+• Built modular React components separating task input and task list rendering. <br>
